@@ -1,6 +1,6 @@
-def square_array(array)
+def square_array(numbers)
   for array do
-    sqrt()
+    sqrt(numbers)
   end
   array
 end
