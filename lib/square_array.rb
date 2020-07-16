@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  new array = []
+  while array < array.length do
+    mathsqrt(array)
+  end
 end
