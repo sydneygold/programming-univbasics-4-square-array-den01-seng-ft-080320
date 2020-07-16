@@ -2,9 +2,10 @@ numbers = [1,2,3]
 
 def square_array(numbers)
   do
-    numbers ** numbers
+    2 ** 2
     array
   end
+end
 
 new_numbers = [9,10,16,25]
 
