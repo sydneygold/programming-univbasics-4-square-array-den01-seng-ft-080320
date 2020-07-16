@@ -1,9 +1,11 @@
+numbers = [1, 2, 3]
+
 def square_array(numbers)
-  numbers = [1,2,3]
-  while true
   do
-puts math.sqrt(1)
-puts math.sqrt(2)
-puts math.sqrt(3)
+     ** 
+    array
   end
-end
+
+#new_numbers = [9,10,16,25]
+
+#square_array(new_numbers)
