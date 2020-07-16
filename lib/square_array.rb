@@ -1,6 +1,10 @@
 numbers = [1,2,3]
 
-square_array(numbers)
+def square_array(numbers)
+  do
+    numbers ** numbers
+    array
+  end
 
 new_numbers = [9,10,16,25]
 
